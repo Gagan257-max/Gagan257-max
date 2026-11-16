@@ -1,16 +1,21 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**Gagan257-max/Gagan257-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on Java-based applications and backend development
+👯 I'm looking to collaborate on Java Full Stack & Software Engineering Projects
+🤝 I'm looking for help with System Design, DevOps & Advanced DSA
+🌱 I'm currently learning Spring Boot, REST APIs, SQL, Docker & CI/CD
+💬 Ask me about Java, OOP, DBMS, SQL, Backend & Frontend Development
+⚡ Fun fact: I love solving problems and building scalable, efficient software!
 
-Here are some ideas to get you started:
+🌐 Socials:
+Instagram LinkedIn X [Mastodon](https://mastodon.social/@Gagan Kumar SN) email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+CSS3 HTML5 Java JavaScript Python AWS React Spring Jenkins MySQL Postgres Adobe Canva Figma
+
+📊 GitHub Stats:
+
+
+
+
+🔝 Top Contributed Repo
